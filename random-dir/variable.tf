@@ -6,7 +6,7 @@ variable "region" {
 
 variable "team" {
   type        = string
-  description = "Group under which resources will be deployed"
+  description =    "Group under which resources will be deployed"
   default     = "platform"
 }
 
